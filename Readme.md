@@ -1,0 +1,1 @@
+This folder was createad thinking just share of knowledge.
