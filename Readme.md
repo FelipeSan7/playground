@@ -1,1 +1,1 @@
-This folder was createad thinking just share of knowledge.
+This folder was created just thinking share and development of knowledge.
